@@ -2,8 +2,10 @@
   "name": "campusconnect",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "private": true,
   "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,3 +18,4 @@
   },
   "homepage": "https://github.com/Vansh-dev1/campusconnect#readme"
 }
+
