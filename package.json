@@ -16,6 +16,8 @@
   "bugs": {
     "url": "https://github.com/Vansh-dev1/campusconnect/issues"
   },
-  "homepage": "https://github.com/Vansh-dev1/campusconnect#readme"
+  "homepage": "https://github.com/Vansh-dev1/campusconnect#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
-
